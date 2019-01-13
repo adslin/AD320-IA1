@@ -1,1 +1,1 @@
-https://adslin.github.io/assignment1/
+http://adslin.github.io/assignment1/ 
